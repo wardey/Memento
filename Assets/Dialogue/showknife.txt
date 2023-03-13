@@ -1,0 +1,4 @@
+
+"hmm yes that is indeed a knife, you can even see blood on it"
+"i would go so far as to call it a BLOODYKNIFE"
+return

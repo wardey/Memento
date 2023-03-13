@@ -1,0 +1,44 @@
+
+
+noleaving=noleaving.txt
+startat=Hanamura=start.txt
+
+character=Kiri
+topic=Blood on the Ground=thoughtsonknife.txt
+topic=Something Else=thoughtsonsomething.txt
+show=Bloodyknife=showknife.txt
+addtopic=own=Brokenclock=The Broken Clock=thoughtsOnClock.txt
+updatetopic=present=Bloodyknife=Blood on the Ground=moreThoughtsOnKnife.txt=1
+showbad=bad.txt
+end
+
+character=Hinata
+topic=Moshi Moshi=moshi.txt
+topic=other=other.txt
+show=Brokenclock=showclock.txt
+show=Bloodyknife=showknife.txt
+addtopic=present=Bloodyknife=The Knifuu=HinataOnKnife.txt
+updatetopic=own=Brokenclock=other=other2.txt=1
+showbad=bad.txt
+end
+
+location=Hanamura 
+object=Bloodyknife=0.3=0.4=0.3=0.4=ExamineKnife.txt
+object=Brokenclock=0.4=0.5=0.6=0.8=ExamineClock.txt
+addchar=Kiri=0.5=0.7=0.1=0.5=Kirigiri_1
+firsttime=firstHanamura.txt
+revisit=revisit.txt
+complete=HanamuraComplete.txt
+end
+
+location=city
+object=temp=0.4=0.5=0.4=0.5=placeholder1.txt
+addchar=Hinata=0.6=0.8=0.2=0.6=Hinata_0
+firsttime=firstCity.txt
+revisit=revisit2.txt
+complete=cityComplete.txt
+end
+
+allcomplete=allcomplete.txt
+connectclues=clue1=clue2=script.txt
+next=VN=chapter1.txt

@@ -1,0 +1,53 @@
+
+actors=carryover
+emotes=carryover
+
+//=calling t=Kirigri=0 right here does not work
+
+t=Kirigiri
+mv=Kirigiri=0=defaultTransition2
+
+//=not getting to here
+"Take a look at this."
+"I don't even have to explain the contradiction it shows."
+e=2
+"This evidence speaks for itself!"
+
+presentprompt=what is the evidence?=Bloodyknife
+"blah"
+"failed"
+"try again"
+presentsuccess
+
+t=Chiaki
+mv=Chiaki=0=Turn=normal_i=moveRight
+"....."
+"...The only thing I hear it saying isÅE
+e=0
+"...you have no idea what you're talking about, do you."
+
+t=Kirigiri
+mv=Kirigiri=1=Turn_i=close=moveDown
+"Well, actually, I, uhÅE
+"...."
+e=0
+"Maybe not..."
+
+t=Hinata
+mv=Hinata=0=Turn=far_i=moveLeft
+"The only thing you sounded confident about was that you knew nothing."
+e=1
+"And you should be confident about that."
+
+t=Kirigiri=2
+(Something tells me the work culture here isn't the greatestÅE
+
+mv=Kirigiri=2=Turn=normal=moveUp
+t=Hinata=1
+"...You might want to rethink your approach."
+"Donít just randomly present things. Think about it first!"
+
+t=Kirigiri=1
+"...Got it. I'll do better next time!."
+
+return

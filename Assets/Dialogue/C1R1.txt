@@ -1,0 +1,27 @@
+
+actors=Kirigiri=Hinata=Chiaki
+emotes=0=1=2
+
+statement=0=Kirigiri=0=I'm not sure where it could be.=defaultTransition
+statement=1=Hinata=1=There was blood everywhere...=testpreset
+statement=2=Kirigiri=1=Indeed. There was blood everywhere.=preset1
+statement=3=Kirigiri=2=What else could it be?=zoomout_right
+statement=4=Hinata=0=There must be another weapon somewhere...=preset1
+statement=5=Hinata=2=The murderer must have hidden it in this room.=focus_zoomout
+statement=6=Chiaki=2=I bet it was a gun. No one could take him on in a fair fight!=zoomin_twirl
+
+incorrect=C1R1incorrect.txt
+
+correct=3=Bloodyknife
+
+loop=C1R1loop.txt
+
+gameover=gameover.txt
+
+bgm=Debate
+
+bg=sampleBackground
+
+objectionfx=specialeffect
+
+next=VN=chapter1.txt

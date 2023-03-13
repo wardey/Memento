@@ -1,0 +1,121 @@
+
+bg=Hanamura
+bgm=Swordland
+
+c=Kirigiri Kyoko=2
+
+"<aqua: Welcome.>."
+
+fg=""
+
+"<orange:To Re:lies>"
+
+mc=Main Character
+
+"The Demo"
+
+c=Chiaki Nanami=1
+
+"<red:Beta Version!>"
+
+fx=fade_no_window=2.0
+
+rm=Chiaki
+
+t=Kirigiri
+
+"Nanami?"
+
+fx=unfade_no_window=1.0
+
+"huh?"
+
+show=bloodyknife
+
+"what's this..."
+
+addev=Bloodyknife
+
+addev=Useless
+
+addev=temp
+
+"a knife?"
+
+unshow=Bloodyknife
+
+rm=Kirigiri
+
+c=Kirigiri=2
+
+"why would there be a knife here?"
+
+mc=Hinata
+
+t=mc
+
+(This is going to be exciting!)
+
+fx=flash_window=3.0
+
+t=Chiaki
+
+show=monokuma
+"what is it this time?"
+unshow=monokuma
+
+"Guess I should start preparing now."
+
+rm=Kirigiri
+
+c=Kirigiri=1=l
+
+"I said that...but what am I preparing for?"
+
+affectionup=Kirigiri
+
+cont
+
+affectionup=Hinata
+affectionup=Hinata
+
+choice=Wait=Eat=Investigate  
+
+cond=Wait  
+"Guess I'll wait!"
+set=Wait
+exit  
+
+cond=Eat
+"Guess I'll eat!"
+set=Eat
+exit
+
+cond=Investigate  
+"Guess I'll do some investigation."
+set=Investigate
+exit
+
+cont
+
+SF=Clapping
+
+"ON WITH THE SHOW!"
+
+choice=Debate=Dedeuce=Free time=Logic frenzy
+
+cond=Debate
+next=debate=C1R1.txt
+exit
+
+cond=Dedeuce
+next=dedeuce=dedeuce1.txt
+exit
+
+cond=Free time
+next=freetime=FreeTimeTest.txt
+exit
+
+cond=Logic frenzy
+next=logicfrenzy=LF1.txt
+exit

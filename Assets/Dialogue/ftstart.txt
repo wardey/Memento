@@ -1,0 +1,8 @@
+
+"its time for some free time!"
+"we're running out of content so this is to keep you distracted for a bit"
+"take your time and choose wisely, as you only have enough time to spend with one person"
+"unless the programmer messes up and you get a null reference exception"
+"then no one wins"
+
+return

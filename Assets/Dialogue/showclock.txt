@@ -1,0 +1,5 @@
+
+"Ah..."
+"I see you have a clock with you..."
+"hmm, the dialogue is different, so this normal clock must be special"
+return

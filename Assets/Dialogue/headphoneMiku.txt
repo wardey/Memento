@@ -1,0 +1,5 @@
+
+"it's just a typical wallpaper"
+"nothing special about this"
+
+return

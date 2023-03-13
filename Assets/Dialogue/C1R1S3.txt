@@ -1,0 +1,8 @@
+
+bg=merri kurisumasu
+
+c=Kirigiri=2
+
+"statement 3!!!"
+
+return

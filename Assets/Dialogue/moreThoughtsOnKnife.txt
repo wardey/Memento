@@ -1,0 +1,7 @@
+
+bg = ""
+c=Kiri=0
+
+"more Thoughts On Knife"
+
+return

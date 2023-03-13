@@ -1,0 +1,4 @@
+repository "Memento@wardey@cloud"
+  path "/"
+    br "/main"
+    co "/main"

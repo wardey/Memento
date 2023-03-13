@@ -1,0 +1,8 @@
+﻿
+bg=nice try
+
+t=༼ つ ◕_◕ ༽つ
+
+"try again :P"
+
+return

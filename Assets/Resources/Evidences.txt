@@ -1,0 +1,4 @@
+Bloodyknife=a bloody knife...=bloodyknife
+Useless=useless...=monokuma
+temp=placeholder=merri kurisumasu
+Brokenclock=tick tock=broken clock

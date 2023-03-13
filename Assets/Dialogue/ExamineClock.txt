@@ -1,0 +1,14 @@
+
+"oh look, a clock."
+
+show=broken clock
+
+addev=Brokenclock
+
+"finally a useful piece of dialogue"
+
+unshow=broken clock
+
+"and yes, this was useful, it added the evidence into the thing, hopefully"
+
+return

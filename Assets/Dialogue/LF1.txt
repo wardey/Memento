@@ -1,0 +1,41 @@
+
+bgm=Extra Magic Hour
+gameover=LF1gameover.txt
+
+c=Hinata=1=r
+"Hi hi, Hinata desu"
+"psychic fire"
+
+c=Kirigiri=2=l
+"Love Live DESU"
+
+opponent=hinata=2
+question=what is the answer to this question
+response=0=Not this one
+response=1=all of the above
+response=2=A and B
+response=3=THIS ONE!!
+correct=3
+
+fail=LF1fail.txt
+
+pattern=fspiral=3=2.0
+pattern=semicircleral=1=0.5
+pattern=targetburst=3=0.3
+pattern=targetburst=3=0.3
+pattern=irelia=1=1.0
+pattern=fspiral=3=2.0
+pattern=semicircle=1=0.5
+pattern=fan=2=0.5
+pattern=semicircle=1=0.5
+pattern=fspiral=3=5.0
+
+end
+
+"more stuff to say"
+
+c=Chiaki=0=r
+
+"congratumalations"
+
+next=VN=chapter1.txt

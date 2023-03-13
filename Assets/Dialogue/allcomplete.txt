@@ -1,0 +1,7 @@
+
+bg=fate
+
+"all locations are now complete"
+"proceed to end of round file, if there is one"
+
+next=VN=chapter1.txt

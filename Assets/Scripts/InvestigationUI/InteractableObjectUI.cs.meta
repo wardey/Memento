@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 35eaac25f12b14d43ad3826324371c93
+timeCreated: 1491711496
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - hovermenu: {instanceID: 0}
+  - talkmenu: {instanceID: 0}
+  - mikuCursor: {fileID: 2800000, guid: e39c809c7b49c8945a4e6213c0f125b0, type: 3}
+  - talkButton: {instanceID: 0}
+  - examineButton: {instanceID: 0}
+  - presentButton: {instanceID: 0}
+  - image: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

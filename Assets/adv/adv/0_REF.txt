@@ -1,0 +1,45 @@
+////////////////
+// ADV SCREEN //
+////////////////
+
+Please note that the font specs were created on a 4K canvas, so they may be oversized if you size your game to 1920x1080. Your engine might also calculate character kerning/leading differently so feel free to ignore.
+
+
+
+/// QUICK MENU OPTIONS
+
+1. Backlog - opens the dialogue history screen, known as “backlog”
+
+2. Skip - activates/deactivates Skip Mode. Toggle button.
+
+3. Auto - activates/deactivates Auto Forward Mode. Toggle button.
+
+4. Save - opens Save menu. (Or quick saves.)
+
+5. Load - opens Load menu. (Or quick loads.)
+
+6. Menu - opens Pause menu, which has all functions and others for accessibility, like Settings.
+
+
+
+//// INDICATOR
+
+The Skip Indicator should show “SKIPPING >>>” whenever the skipping function is active.
+
+When Auto Forward Mode is activated, the indicator should show “AUTO MODE ON” for 1-2 seconds before fading out.
+
+When Auto Forward Mode is deactivated, the indicator should show “AUTO MODE OFF” for 1-2 seconds before fading out.
+
+
+
+//// FONTS
+
+All fonts are pale yellow color #FFFBF1. Shades are done by changing the opacity/alpha.
+
+Character name: Montserrat 300, size 114, opacity 100%, kerning 48
+
+Character text: Barlow Regular, size 79, opacity 100%, line leading 102
+
+Skip/Auto Indicator: Montserrat 300, size 70, opacity 100%, kerning 30
+
+Quick Menu Buttons: Montserrat 500, size 40, opacity 50%, kerning 17

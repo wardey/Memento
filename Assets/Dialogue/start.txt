@@ -1,0 +1,7 @@
+
+bg=fate
+c=chiaki=2
+
+"starting investigation mode"
+
+return

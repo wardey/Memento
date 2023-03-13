@@ -1,0 +1,20 @@
+
+actors=Kirigiri=Hinata=Chiaki
+emotes=0=1=2
+
+character=Kirigiri=0
+statement=0="statement text"
+statement=1="more statement text"
+endchar
+character=Hinata=1
+statement=2="3rd statement""
+statement=3="another one of the right statements"
+endchar
+character=Chiaki=2
+statement=4="one of the right statements"
+endchar
+
+bgm=Swordland
+correctmatch=3=4
+incorrect=C1R1loop.txt
+next=VN=chapter1.txt

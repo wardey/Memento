@@ -1,0 +1,7 @@
+
+bg = ""
+c=Kiri=0
+
+"thoughts on something else"
+
+return

@@ -1,0 +1,3 @@
+Kirigiri Kyoko=kirigiri,kyoko,Kirigiri,Kyoko,Kiri
+Chiaki Nanami=Chiaki,Nanami,chiaki,nanami,
+Hinata Hajime=Hinata,hinata,Hajime,hajime

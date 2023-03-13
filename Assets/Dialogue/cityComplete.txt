@@ -1,0 +1,4 @@
+
+"we cna finally leave the city now"
+"i mean, you can stay, but we're done here, the writer even said so"
+return

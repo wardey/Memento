@@ -1,0 +1,18 @@
+
+bg=game over
+
+"normally we'd have the option to restart the round, but..."
+
+"for the purposes of testing, that option is disabled for now"
+
+"so back to the start you go"
+
+choice=restart=give up
+
+cond=restart
+return
+exit
+
+cond=give up
+giveup
+exit

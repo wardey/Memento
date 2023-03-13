@@ -1,0 +1,5 @@
+
+"this is where the mechanically unskilled end up, too busy thinking to dodge"
+"back you go, atleast its still the same thing"
+"or is it?"
+next=logicfrenzy=LF1.txt

@@ -1,0 +1,34 @@
+
+bgm=start dash
+startat=city=ftstart.txt
+
+character=Kiri
+freetimetopic=0=Kiri0.txt
+freetimetopic=1=Kiri1.txt
+freetimetopic=2=Kiri2.txt
+freetimetopic=3=Kiri3.txt
+freetimetopic=4=Kiri4.txt
+freetimetopic=5=Kiri5.txt
+end
+
+character=Hinata
+freetimetopic=0=Hinata0.txt
+freetimetopic=1=Hinata1.txt
+freetimetopic=2=Hinata2.txt
+freetimetopic=3=Hinata3.txt
+freetimetopic=4=Hinata4.txt
+freetimetopic=5=Hinata5.txt
+end
+
+location=Hanamura 
+object=doge=0.3=0.4=0.3=0.4=doge.txt
+object=catdog=0.4=0.5=0.6=0.8=catdog.txt
+addchar=Kiri=0.5=0.7=0.1=0.5=Kirigiri_2
+end
+
+location=city
+object=headphone miku=0.2=0.5=0.5=0.7=headphoneMiku.txt
+addchar=Hinata=0.6=0.8=0.2=0.6=Hinata_1
+end
+
+next=VN=chapter1.txt
